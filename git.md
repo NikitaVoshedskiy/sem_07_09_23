@@ -6,18 +6,12 @@
 
 new line
 
-git diff - lkdjsflkjdfk;vndvnon
-
-# - 
-
-branch2
-
-134235246246
-
-1414
+git di
 
 sdafafgea
 
 asdq3eqw3
 
 ggg
+
+Изменил пару строку туда сюда
